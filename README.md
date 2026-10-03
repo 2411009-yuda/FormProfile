@@ -18,8 +18,8 @@ State, Event, Recomposition, State Hoisting
 3. Jalankan di emulator atau perangkat
 
 ## Screenshot
-![Sebelum](screenshot/sebelum.png)
-![Sesudah](screenshot/sesudah.png)
+![Sebelum](screenshot/sebelum.jpeg)
+![Sesudah](screenshot/sesudah.jpeg)
 
 ## Identitas
 Nama: Yuda Pratama
